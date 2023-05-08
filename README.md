@@ -8,6 +8,6 @@
 
 ## 使用方式2 —— 算法学习
 ![image](https://user-images.githubusercontent.com/69662427/236120320-934d9e5b-93c0-4c4a-9405-741d71fd440d.png)
-* 输入：https://www.lintcode.com/chat-gpt/?utm_source=sc-github-xjl
-*
+* 入口：https://www.lintcode.com/chat-gpt/?utm_source=sc-github-xjl
+
 此外，模拟系统设计面试、评论代码等更多ChatGPT妙用等你发现，免费使用入口：https://www.lintcode.com/chat-gpt/?utm_source=sc-github-xjl
